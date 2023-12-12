@@ -57,7 +57,7 @@ class Map:
 
 def part1():
     map = Map("day10/sampleinput1.txt")
-    print(map.__str__())
+    # print(map.__str__())
     print("hello")
 
 
